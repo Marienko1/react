@@ -1,0 +1,62 @@
+.statistics {
+    padding-top: 10px;
+    width: 268px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    height: 70px;
+    text-align: center;
+    vertical-align: center;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #475965;
+    font-weight: bold;
+    font-family: "Proxima Nova";
+    text-transform: uppercase;
+    background-color: white;
+}
+
+.stat_list {
+    display: flex;
+    height: 60px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.item {
+    width: 70px;
+    height: 60px;
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.label {
+    font-size: 12px;
+    letter-spacing: 0px;
+    line-height: 20px;
+    color: #ffffff;
+    font-weight: 300;
+    font-family: "Proxima Nova";
+}
+
+.percentage {
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 20px;
+    color: #ffffff;
+    font-family: "Proxima Nova";
+}
