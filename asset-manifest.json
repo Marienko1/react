@@ -1,22 +1,38 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.5bfc05ce.chunk.css",
-    "main.js": "/react/static/js/main.18e84a66.chunk.js",
-    "main.js.map": "/react/static/js/main.18e84a66.chunk.js.map",
-    "runtime-main.js": "/react/static/js/runtime-main.6883ac72.js",
-    "runtime-main.js.map": "/react/static/js/runtime-main.6883ac72.js.map",
-    "static/js/2.8cd08abb.chunk.js": "/react/static/js/2.8cd08abb.chunk.js",
-    "static/js/2.8cd08abb.chunk.js.map": "/react/static/js/2.8cd08abb.chunk.js.map",
+    "static/js/0.2329dd4f.chunk.js": "/react/static/js/0.2329dd4f.chunk.js",
+    "static/js/0.2329dd4f.chunk.js.map": "/react/static/js/0.2329dd4f.chunk.js.map",
+    "CastSection.js": "/react/static/js/CastSection.25ed779b.chunk.js",
+    "CastSection.js.map": "/react/static/js/CastSection.25ed779b.chunk.js.map",
+    "HomePage.js": "/react/static/js/HomePage.d75a7225.chunk.js",
+    "HomePage.js.map": "/react/static/js/HomePage.d75a7225.chunk.js.map",
+    "MovieDetailsPage.css": "/react/static/css/MovieDetailsPage.e7c70034.chunk.css",
+    "MovieDetailsPage.js": "/react/static/js/MovieDetailsPage.3109168c.chunk.js",
+    "MovieDetailsPage.js.map": "/react/static/js/MovieDetailsPage.3109168c.chunk.js.map",
+    "MoviesPage.js": "/react/static/js/MoviesPage.44b335ba.chunk.js",
+    "MoviesPage.js.map": "/react/static/js/MoviesPage.44b335ba.chunk.js.map",
+    "NotFoundPage.js": "/react/static/js/NotFoundPage.251c4247.chunk.js",
+    "NotFoundPage.js.map": "/react/static/js/NotFoundPage.251c4247.chunk.js.map",
+    "ReviewsSection.js": "/react/static/js/ReviewsSection.0a66b3f1.chunk.js",
+    "ReviewsSection.js.map": "/react/static/js/ReviewsSection.0a66b3f1.chunk.js.map",
+    "main.css": "/react/static/css/main.28819171.chunk.css",
+    "main.js": "/react/static/js/main.0862df78.chunk.js",
+    "main.js.map": "/react/static/js/main.0862df78.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.d5d93214.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.d5d93214.js.map",
+    "static/js/9.709efccb.chunk.js": "/react/static/js/9.709efccb.chunk.js",
+    "static/js/9.709efccb.chunk.js.map": "/react/static/js/9.709efccb.chunk.js.map",
     "index.html": "/react/index.html",
-    "precache-manifest.5cb8850fe0e8826fd9564554695ae184.js": "/react/precache-manifest.5cb8850fe0e8826fd9564554695ae184.js",
+    "precache-manifest.7812c122f5cfc236eb7a0030d76a9180.js": "/react/precache-manifest.7812c122f5cfc236eb7a0030d76a9180.js",
     "service-worker.js": "/react/service-worker.js",
-    "static/css/main.5bfc05ce.chunk.css.map": "/react/static/css/main.5bfc05ce.chunk.css.map",
-    "static/js/2.8cd08abb.chunk.js.LICENSE.txt": "/react/static/js/2.8cd08abb.chunk.js.LICENSE.txt"
+    "static/css/MovieDetailsPage.e7c70034.chunk.css.map": "/react/static/css/MovieDetailsPage.e7c70034.chunk.css.map",
+    "static/css/main.28819171.chunk.css.map": "/react/static/css/main.28819171.chunk.css.map",
+    "static/js/9.709efccb.chunk.js.LICENSE.txt": "/react/static/js/9.709efccb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6883ac72.js",
-    "static/js/2.8cd08abb.chunk.js",
-    "static/css/main.5bfc05ce.chunk.css",
-    "static/js/main.18e84a66.chunk.js"
+    "static/js/runtime-main.d5d93214.js",
+    "static/js/9.709efccb.chunk.js",
+    "static/css/main.28819171.chunk.css",
+    "static/js/main.0862df78.chunk.js"
   ]
 }
